@@ -1,6 +1,6 @@
 #replace with your input file
 #path: "/home/jack/Auto3D_pkg/tests/files/smiles2.smi"
-path: "D:/GitHub/Auto3D_pkg/example/files/smiles.smi"
+path: "D:/Ph.D/Healy's Lab/linear_peptoid.smi"
 
 #k and window are mutually exclusive parameters. Just specify one of them.
 k: 1  
